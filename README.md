@@ -5,5 +5,6 @@
 Je m'appelle Florian Marchive. J'ai 28 ans. J'habite à Bordeaux.
 
 
-## Mes profils sociaux
+## Mon profil Linkedin
+[https://www.linkedin.com/in/florianmarchive/](url)
 
