@@ -28,5 +28,5 @@ Je suis enthousiaste à l'idée de mettre en pratique mes compétences, d'appren
 
 <img align="center" alt="mysql" width="80px" src="./IMG/mysql.svg" /> 
 
-## Mon profil Linkedin <img align="center" alt="Linkedin" width="40px" src="./IMG/linkedin.svg" />
+## Mon profil Linkedin 
 [https://www.linkedin.com/in/florianmarchive/](url)
