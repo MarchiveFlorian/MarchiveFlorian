@@ -22,4 +22,3 @@ Je suis enthousiaste à l'idée de mettre en pratique mes compétences, d'appren
 
 ## Mon profil Linkedin
 <img align="center" alt="Linkedin" width="40px" src="./IMG/linkedin.svg" />  [https://www.linkedin.com/in/florianmarchive/](url)
-
