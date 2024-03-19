@@ -1,6 +1,6 @@
-# Bienvenue sur mon GitHub
+# 👋 Bienvenue sur mon GitHub !
 
-## Qui suis-je ?
+## Qui suis-je ? 
 
 Je m'appelle Florian Marchive. J'ai 28 ans. J'habite à Bordeaux.
 
@@ -12,7 +12,7 @@ Aujourd'hui, je suis impatient de rejoindre l'aventure chez Simplon en tant qu'a
 
 Je suis enthousiaste à l'idée de mettre en pratique mes compétences, d'apprendre de nouvelles technologies et de contribuer à des projets passionnants
 
-## Mes compétences
+## Mes compétences 💻
 
 <img align="center" alt="vscode=" width="40px" src="./IMG/vscode.svg" />
 
