@@ -1,6 +1,6 @@
 # 👋 Bienvenue sur mon GitHub !
 
-## Qui suis-je ? TEST
+## Qui suis-je ?
 
 Passionné par la technologie dès mon plus jeune âge, j'ai toujours été fasciné par les ordinateurs, les jeux vidéo et tout ce qui touche au numérique. Il y a quelques années, j'ai décidé d'entreprendre une reconversion professionnelle dans le domaine du développement web.
 
